@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Helen Om](https://up.htmlacademy.ru/javascript/17/user/88604).
-* Наставник: `Сергей Буртылёв`.
+* Наставник: `Неизвестно`.
 
 ---
 
